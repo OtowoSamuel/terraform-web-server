@@ -22,7 +22,7 @@ Before running the Terraform scripts, ensure you have the following installed:
 
 ### Clone the Repository
 
-    ```bash
+    
     git clone git@github.com:OtowoSamuel/terraform-web-server.git
     cd terraform-web-server
     
